@@ -3,8 +3,7 @@
 
 using namespace std;
 int main() {
-  int n =3;
-
+  int n = 3;
   double mean;
   int max = 0;
   int min = INT_MAX;
